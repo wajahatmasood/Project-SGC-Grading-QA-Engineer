@@ -1,6 +1,9 @@
 # Project-SGC-Grading-QA-Engineer
 All rights to the project are held by Veroke and their partners.
 
+![image](https://github.com/user-attachments/assets/f5d1c097-33f4-4525-be6c-a9b18956cde8)
+
+
 Website: https://www.gosgc.com/
 
 As a Quality Assurance (QA) Analyst, my role in the SGC project was pivotal in ensuring the reliability and excellence of the app. SGC, denoting "Superior Grading and Authentication," acknowledged the significance of the word "Authentic" by opting for its full display on the card label instead of a mere "A."
